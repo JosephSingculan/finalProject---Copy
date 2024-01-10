@@ -162,11 +162,7 @@ body{
 .pack{
     display: flex;
     border-radius: 20px;
-    
     padding-bottom: 15%;
-    
-    
-    
 }
 
 .pack img{
